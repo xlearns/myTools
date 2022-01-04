@@ -1,0 +1,3 @@
+- 用cmd打开bat文件
+- 查看想要连接wifi的名字
+- 用cmd打开bat文件 想要连接wifi的名字
